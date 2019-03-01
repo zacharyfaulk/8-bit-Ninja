@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerProjectile
+  - Enemy
+  - Surface
+  - Enemy2Laser
+  - Global
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerProjectile
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - Enemy3Projectiles
+  - Enemy4Projectiles
+  - Enemy2Laser
+  - Surface
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 928043759
+    locked: 0
+  - name: Laser
+    uniqueID: 3146155051
+    locked: 0
